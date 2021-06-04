@@ -188,6 +188,7 @@ Press Ctrl+c to exit script.
 
 
 **Помните, Python любит отступы и не любит неряшливости!**
+
 ![](images/tab.jpg)
 
 
